@@ -1,0 +1,10 @@
+venv/
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+.env
+data/users.db
+data/.secret_key
+data/.cache/
+*.bak
